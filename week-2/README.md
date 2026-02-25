@@ -19,5 +19,5 @@ int main(void)
 }
 ```
 - The output is as following
-> Hi!
+> Hi!\
 > BYE!
